@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="3a05d19054694d4bb6b3c646f257ad0f" sys_domain="global" table="x_1057277_tour_t_0_travel_req" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 18:18:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2dff4d3cb9f74c4684cd187f266154e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1057277_tour_t_0_travel_req" name="x_1057277_tour_t_0_travel_req" sys_domain="global" view="Default view">3a05d19054694d4bb6b3c646f257ad0f</sys_ui_form>
+            <sys_ui_section caption="Trip Basics" display_value="Trip Basics" name="x_1057277_tour_t_0_travel_req" sys_domain="global" view="Default view">a800acfb55fb44e0b4c577d442047840</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 18:18:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 18:18:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6e0346c2acad471ea450ed51319c1323</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1057277_tour_t_0_travel_req" name="x_1057277_tour_t_0_travel_req" sys_domain="global" view="Default view">3a05d19054694d4bb6b3c646f257ad0f</sys_ui_form>
+            <sys_ui_section caption="Travel Details" display_value="Travel Details" name="x_1057277_tour_t_0_travel_req" sys_domain="global" view="Default view">512d014802ab4c169e19813128c5538c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 18:18:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 18:18:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c689482be6d48218cd0a57aa90b7328</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1057277_tour_t_0_travel_req" name="x_1057277_tour_t_0_travel_req" sys_domain="global" view="Default view">3a05d19054694d4bb6b3c646f257ad0f</sys_ui_form>
+            <sys_ui_section caption="International Travel" display_value="International Travel" name="x_1057277_tour_t_0_travel_req" sys_domain="global" view="Default view">4a6b0c2b4a1b41eb9b8daf54ea3a1377</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 18:18:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 18:18:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e78177e86ef24df9b63b52681d0e0c7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1057277_tour_t_0_travel_req" name="x_1057277_tour_t_0_travel_req" sys_domain="global" view="Default view">3a05d19054694d4bb6b3c646f257ad0f</sys_ui_form>
+            <sys_ui_section caption="Justification" display_value="Justification" name="x_1057277_tour_t_0_travel_req" sys_domain="global" view="Default view">232f174113d94c9699201e825c25df03</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 18:18:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1057277_tour_t_0_travel_req</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 18:18:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a05d19054694d4bb6b3c646f257ad0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1057277_tour_t_0_travel_req</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Tour Travel Request" source="x_1057277_tour_t_0">015877bc47f89310ec5fee2f316d433b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tour Travel Request">015877bc47f89310ec5fee2f316d433b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3a05d19054694d4bb6b3c646f257ad0f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 18:18:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

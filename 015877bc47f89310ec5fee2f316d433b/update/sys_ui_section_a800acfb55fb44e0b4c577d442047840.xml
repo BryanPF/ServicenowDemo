@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Trip Basics" section_id="a800acfb55fb44e0b4c577d442047840" sys_domain="global" table="x_1057277_tour_t_0_travel_req" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 18:18:26</sys_created_on>
+            <sys_id>cdc5b0c9494d4456b6362cd577ce0a9a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Trip Basics" display_value="Trip Basics" name="x_1057277_tour_t_0_travel_req" sys_domain="global" view="Default view">a800acfb55fb44e0b4c577d442047840</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 18:18:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purpose</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 18:18:26</sys_created_on>
+            <sys_id>c7890cc5b5254d78a755b01a5b65dcc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Trip Basics" display_value="Trip Basics" name="x_1057277_tour_t_0_travel_req" sys_domain="global" view="Default view">a800acfb55fb44e0b4c577d442047840</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 18:18:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>destination_city</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 18:18:26</sys_created_on>
+            <sys_id>069a55c069ec41fbabd707aad521c3c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Trip Basics" display_value="Trip Basics" name="x_1057277_tour_t_0_travel_req" sys_domain="global" view="Default view">a800acfb55fb44e0b4c577d442047840</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 18:18:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>departure_date</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 18:18:26</sys_created_on>
+            <sys_id>9f7475f4ab0c49bc8e9573826c1e8b46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Trip Basics" display_value="Trip Basics" name="x_1057277_tour_t_0_travel_req" sys_domain="global" view="Default view">a800acfb55fb44e0b4c577d442047840</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 18:18:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>return_date</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 18:18:26</sys_created_on>
+            <sys_id>d753c715d5f84b94b444c511cbc4ef14</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Trip Basics" display_value="Trip Basics" name="x_1057277_tour_t_0_travel_req" sys_domain="global" view="Default view">a800acfb55fb44e0b4c577d442047840</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 18:18:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Trip Basics</caption>
+            <header>false</header>
+            <name>x_1057277_tour_t_0_travel_req</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 18:18:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a800acfb55fb44e0b4c577d442047840</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1057277_tour_t_0_travel_req</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Tour Travel Request" source="x_1057277_tour_t_0">015877bc47f89310ec5fee2f316d433b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tour Travel Request">015877bc47f89310ec5fee2f316d433b</sys_scope>
+            <sys_update_name>sys_ui_section_a800acfb55fb44e0b4c577d442047840</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 18:18:26</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

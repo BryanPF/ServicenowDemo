@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="International Travel" section_id="4a6b0c2b4a1b41eb9b8daf54ea3a1377" sys_domain="global" table="x_1057277_tour_t_0_travel_req" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>international_trip</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 18:18:26</sys_created_on>
+            <sys_id>b86ebff53dfa430dab5c0b786095b279</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="International Travel" display_value="International Travel" name="x_1057277_tour_t_0_travel_req" sys_domain="global" view="Default view">4a6b0c2b4a1b41eb9b8daf54ea3a1377</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 18:18:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>passport_expiration_date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 18:18:26</sys_created_on>
+            <sys_id>a28e6ad8f5664b64a7e5fe187ad261bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="International Travel" display_value="International Travel" name="x_1057277_tour_t_0_travel_req" sys_domain="global" view="Default view">4a6b0c2b4a1b41eb9b8daf54ea3a1377</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 18:18:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>visa_required</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 18:18:26</sys_created_on>
+            <sys_id>c9e7d2458a2f44e19025ff0f56233415</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="International Travel" display_value="International Travel" name="x_1057277_tour_t_0_travel_req" sys_domain="global" view="Default view">4a6b0c2b4a1b41eb9b8daf54ea3a1377</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 18:18:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>International Travel</caption>
+            <header>false</header>
+            <name>x_1057277_tour_t_0_travel_req</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-24 18:18:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4a6b0c2b4a1b41eb9b8daf54ea3a1377</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1057277_tour_t_0_travel_req</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Tour Travel Request" source="x_1057277_tour_t_0">015877bc47f89310ec5fee2f316d433b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tour Travel Request">015877bc47f89310ec5fee2f316d433b</sys_scope>
+            <sys_update_name>sys_ui_section_4a6b0c2b4a1b41eb9b8daf54ea3a1377</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-24 18:18:26</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

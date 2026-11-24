@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" audit="true" db_object_id="8d6503be3c154e8f80cd637c86574fdc" label="Travel Request" name="x_1057277_tour_t_0_travel_req" type="collection">
+        <element label="Estimated total cost" name="estimated_total_cost" type="decimal"/>
+        <element label="Departure date" mandatory="true" name="departure_date" type="glide_date"/>
+        <element choice="1" label="Flight class" name="flight_class" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Business" sequence="3" value="business"/>
+                <element inactive_on_update="false" label="Economy" sequence="1" value="economy"/>
+                <element inactive_on_update="false" label="Premium Economy" sequence="2" value="premium_economy"/>
+            </choice>
+        </element>
+        <element label="Return date" mandatory="true" name="return_date" type="glide_date"/>
+        <element label="Destination city" max_length="100" name="destination_city" type="string"/>
+        <element label="Visa required" name="visa_required" type="boolean"/>
+        <element label="International trip" name="international_trip" type="boolean"/>
+        <element choice="1" label="Transportation" name="transportation" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Personal Vehicle" sequence="3" value="personal_vehicle"/>
+                <element inactive_on_update="false" label="Flight" sequence="1" value="flight"/>
+                <element inactive_on_update="false" label="Car Rental" sequence="2" value="car_rental"/>
+            </choice>
+        </element>
+        <element label="Business justification" mandatory="true" max_length="4000" name="business_justification" type="multi_two_lines"/>
+        <element display="true" label="Title" mandatory="true" max_length="100" name="title" type="string"/>
+        <element label="Mileage estimate" name="mileage_estimate" type="integer"/>
+        <element choice="1" label="Purpose" name="purpose" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Festival" sequence="2" value="festival"/>
+                <element inactive_on_update="false" label="Other" sequence="5" value="other"/>
+                <element inactive_on_update="false" label="Promo Appearance" sequence="3" value="promo_appearance"/>
+                <element inactive_on_update="false" label="Recording Session" sequence="4" value="recording_session"/>
+                <element inactive_on_update="false" label="Tour Leg" sequence="1" value="tour_leg"/>
+            </choice>
+        </element>
+        <element label="Passport expiration date" name="passport_expiration_date" type="glide_date"/>
+        <element choice="1" label="Rental car size" name="rental_car_size" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="SUV" sequence="4" value="suv"/>
+                <element inactive_on_update="false" label="Full-size" sequence="3" value="full_size"/>
+                <element inactive_on_update="false" label="Compact" sequence="1" value="compact"/>
+                <element inactive_on_update="false" label="Mid-size" sequence="2" value="mid_size"/>
+            </choice>
+        </element>
+    </element>
+</database>
